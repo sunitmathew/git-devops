@@ -1,2 +1,2 @@
 # git-devops
-This is fro devops learning purpose. 
+This is for devops learning purpose. 
